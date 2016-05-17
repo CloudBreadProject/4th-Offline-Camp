@@ -5,11 +5,11 @@
 
 ### CloudBread 캠프 참여 전 필수 준비 과정
 **1. Unity3d 설치**
-Unity3d 5.0 이상 설치 : [Unity 다운로드 페이지](http://unity3d.com/kr/get-unity/download?ref=personal)에서 받으실 수 있습니다.
+- Unity3d 5.0 이상 설치 : [Unity 다운로드 페이지](http://unity3d.com/kr/get-unity/download?ref=personal)에서 받으실 수 있습니다.
 
 **2. PostMan 설치**
-CloudBread 캠프에서는 CloudBread 와의 API 호출 테스트 툴로써 PostMan 을 사용합니다.
-http://www.getpostman.com 에서 Mac 용 앱 또는 Chrome 용 앱을 다운받아 설치해주세요.
+- CloudBread 캠프에서는 CloudBread 와의 API 호출 테스트 툴로써 PostMan 을 사용합니다.
+- http://www.getpostman.com 에서 Mac 용 앱 또는 Chrome 용 앱을 다운받아 설치해주세요.
 
 **3. Github 회원가입**
 - Github 가입 : https://github.com/ 에서 가입 하세요. 자신의 Repository로 Fork 할때 필요합니다.
