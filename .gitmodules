@@ -1,0 +1,3 @@
+[submodule "CloudBread-Unity-SDK"]
+	path = CloudBread-Unity-SDK
+	url = https://github.com/CloudBreadProject/CloudBread-Unity-SDK.git
